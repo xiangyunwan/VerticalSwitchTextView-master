@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-ba8bd9363cea32ce09d2ca11803007488a665f1f.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-74e11d488d0d8f4392921e2d8634af2b2107e1db.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\pre-dexed\debug\classes-07b07f25eda0e8e6e4342eb0338dd73049906876.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\android_github\VerticalSwitchTextView-master\app\build\intermediates\pre-dexed\debug\classes-cfdda6a2a00ba70eb031a78992e146a04602969f.jar" />
+    </item>
+
+</items>
